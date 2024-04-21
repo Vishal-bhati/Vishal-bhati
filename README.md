@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vishal Bhati</h1>
 <h3 align="center">"Experienced Django developer proficient in building robust web applications. Skilled in backend development, RESTful APIs, and database management. Committed to delivering high-quality, scalable solutions for diverse projects."</h3>
 
-- 🔭 I’m currently working on [College management system]
-
 - 📫 How to reach me **vishalbhati8368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
