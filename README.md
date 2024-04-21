@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vishal Bhati</h1>
-<h3 align="center">"Experienced Django developer proficient in building robust web applications. Skilled in backend development, RESTful APIs, and database management. Committed to delivering high-quality, scalable solutions for diverse projects."</h3>
+<h3 align="center">Experienced Django developer proficient in building robust web applications. Skilled in backend development, RESTful APIs, and database management. Committed to delivering high-quality, scalable solutions for diverse projects.</h3>
 
 - 🔭 I’m currently working on [College management system](github.com/Vishal-bhati/college-management)
 
